@@ -3,6 +3,7 @@
 
 /**
  * @package chamilo.main
+ * comment great!
  */
 
 
