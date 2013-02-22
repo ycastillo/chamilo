@@ -1,8 +1,8 @@
 /*
  * Common CSS for all themes
 */
-
 @import url('bootstrap.css');
+
 
 /* some changes to the bootstrap.css */
 
@@ -21,7 +21,7 @@ select {
 }
 
 legend {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 #header_right {
@@ -2009,6 +2009,9 @@ input.maininput:focus {
     margin-bottom: 20px;
 }
 
+#course_tools .content a {
+    font-size: 12px;
+}
 /* session.php */
 #session_course_list .big_icon {
     padding:10px;
